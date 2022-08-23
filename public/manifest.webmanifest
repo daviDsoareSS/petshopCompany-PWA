@@ -1,0 +1,19 @@
+{
+    "short_name" : " Petshop Company " ,
+    "name" : " petshopCompany " ,
+    "start_url" : "/" ,
+    "display" : " standalone " ,
+    "theme_color" : "#765d4d " ,
+    "theme-color" : "#765d4d " ,
+    "background_color" : " #765d4d " ,
+    "background-color" : " #765d4d " ,
+    "description" : "Petshop que cuida dos seus animais!" ,
+    "icons" : [
+      {
+        "src" : "images/logo.jpg" ,
+        "type" : "image/jpg" ,
+        "sizes" : "3000x3000"
+        
+      }
+    ]
+  }
