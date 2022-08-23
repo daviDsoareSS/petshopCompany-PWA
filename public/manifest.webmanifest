@@ -10,9 +10,9 @@
     "description" : "Petshop que cuida dos seus animais!" ,
     "icons" : [
       {
-        "src" : "images/logo.jpg" ,
-        "type" : "image/jpg" ,
-        "sizes" : "1080x1080"
+        "src" : "images/logo.png" ,
+        "type" : "image/png" ,
+        "sizes" : "3000x3000"
         
       }
     ]
