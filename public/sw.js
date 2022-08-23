@@ -1,4 +1,4 @@
-const cacheName = 'polaroid'
+const cacheName = 'petshopCompany'
 
 self.addEventListener('install', function(event){
     event.waitUntil(
